@@ -1,0 +1,1220 @@
+1. From Virtual Touch to Tesla Command: Unlocking Unauthenticated Control Chains From Smart Glasses for Vehicle Takeover
+URL: https://spqrlab1.github.io/papers/long-tesla.pdf
+Title found in the paper link content
+First 100 characters of content: from virtual touch to tesla command: unlocking unauthenticated control chains
+from smart glasses for
+
+--------------------
+
+2. WIP: Threat Modeling Laser-Induced Acoustic Interference in Computer Vision-Assisted Vehicles
+URL: https://spqrlab1.github.io/papers/shamsi-laser-vehiclesec24.pdf
+Title found in the paper link content
+First 100 characters of content: wip: threat modeling laser-induced acoustic
+interference in computer vision-assisted vehicles
+nina s
+
+--------------------
+
+3. EM Eye: Characterizing Electromagnetic Side-channel Eavesdropping on Embedded Cameras
+URL: https://spqrlab1.github.io/papers/long-emeye-ndss24.pdf
+Title found in the paper link content
+First 100 characters of content: em eye: characterizing electromagnetic
+side-channel eavesdropping on embedded cameras
+yan long∗§, qi
+
+--------------------
+
+4. GhostType: The Limits of Using Contactless Electromagnetic Interference to Inject Phantom Keys into Analog Circuits of Keyboards
+URL: https://spqrlab1.github.io/papers/long-ghosttype-ndss24.pdf
+Title found in the paper link content
+First 100 characters of content: ghosttype: the limits of using contactless
+electromagnetic interference to inject phantom keys
+into 
+
+--------------------
+
+5. Characterizing and Mitigating Touchtone Eavesdropping in Smartphone Motion Sensors
+URL: https://spqrlab1.github.io/papers/bolton-touchtone-raid23.pdf
+Title found in the paper link content
+First 100 characters of content: characterizing and mitigating touchtone eavesdropping in
+smartphone motion sensors
+connor bolton*
+un
+
+--------------------
+
+6. Shimware: Toward Practical Security Retrofitting for Monolithic Firmware Images
+URL: https://spqrlab1.github.io/papers/shimware-raid23.pdf
+Title found in the paper link content
+First 100 characters of content: shimware: toward practical security retrofitting for
+monolithic firmware images
+eric gustafson
+edg@c
+
+--------------------
+
+7. Position Paper: Space System Threat Models Must Account for Satellite Sensor Spoofing
+URL: https://spqrlab1.github.io/papers/cyr_CyberPhysicalThreats_SpaceSec23.pdf
+Title found in the paper link content
+First 100 characters of content: position paper: space system threat models
+must account for satellite sensor spoofing
+benjamin cyr a
+
+--------------------
+
+8. Side Eye: Characterizing the Limits of POV Acoustic Eavesdropping from Smartphone Cameras with Rolling Shutters and Movable Lenses
+URL: https://arxiv.org/ftp/arxiv/papers/2301/2301.10056.pdf
+Title found in the paper link content
+First 100 characters of content: side eye: characterizing the limits of pov
+acoustic eavesdropping from smartphone cameras
+with rolli
+
+--------------------
+
+9. Private Eye: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing
+URL: https://arxiv.org/pdf/2205.03971.pdf
+Title NOT found in the paper link content
+First 100 characters of content: private eye: on the limits of
+textual screen peeking via eyeglass reﬂections
+in video conferencing
+y
+
+--------------------
+
+10. Side Auth: Sensor Side Channels Considered Beneficial by Synthesizing Virtual Sensors for Authentication
+URL: https://arxiv.org/pdf/2301.11745.pdf
+Title NOT found in the paper link content
+First 100 characters of content: side auth: synthesizing virtual sensors for authentication
+yan long
+university of michigan
+yanlong@u
+
+--------------------
+
+11. Redshift: Manipulating Signal Propagation Delay via Continuous-Wave Lasers
+URL: https://spqrlab1.github.io/papers/cyr-redshift-ches22.pdf
+Title found in the paper link content
+First 100 characters of content: iacr transactions on cryptographic hardware and embedded systems
+issn 2569-2925, vol. 2022, no. 4, p
+
+--------------------
+
+12. Light Commands: Laser-Based Audio Injection Attacks on Voice-Controllable Systems
+URL: No [Paper] link found
+
+--------------------
+
+13. Protecting the Security of Sensor Systems
+URL: https://spqrlab1.github.io/papers/bolton-phdthesis.pdf
+Title found in the paper link content
+First 100 characters of content: protecting the security of sensor systems
+by
+connor bolton
+a dissertation submitted in partial full
+
+--------------------
+
+14. Why Lasers Inject Perceived Sound Into MEMS Microphones:  Indications and Contraindications of Photoacoustic and Photoelectric Effects
+URL: https://spqrlab1.github.io/papers/cyr_why_lasers_inject_sensors2021.pdf
+Title found in the paper link content
+First 100 characters of content: why lasers inject perceived sound into mems
+microphones: indications and contraindications of
+photoa
+
+--------------------
+
+15. VeriMask: Facilitating Decontamination of N95 Masks in the COVID-19 Pandemic: Challenges, Lessons Learned, and Safeguarding the Future
+URL: https://spqrlab1.github.io/papers/longyan-verimask-imwut21.pdf
+Title NOT found in the paper link content
+First 100 characters of content: 119verimask: facilitating decontamination of n95 masks in the
+covid-19 pandemic: challenges, lessons
+
+--------------------
+
+16. Protecting COVID-19 Vaccine Transportation and Storage from Analog Cybersecurity Threats
+URL: https://meridian.allenpress.com/bit/article-abstract/55/3/112/469795/Protecting-COVID-19-Vaccine-Transportation-and?redirectedFrom=PDF
+Failed to retrieve the paper link: 403 Client Error: Forbidden for url: https://meridian.allenpress.com/bit/article-abstract/55/3/112/469795/Protecting-COVID-19-Vaccine-Transportation-and?redirectedFrom=PDF
+
+--------------------
+
+17. Poltergeist: Acoustic Adversarial Machine Learning against Cameras and Computer Vision
+URL: https://spqrlab1.github.io/papers/ji-poltergeist-oakland21.pdf
+Title found in the paper link content
+First 100 characters of content: poltergeist: acoustic adversarial machine learning
+against cameras and computer vision
+xiaoyu ji1, y
+
+--------------------
+
+18. Cybersecurity of Cardiac Implantable Electronic Devices
+URL: https://link.springer.com/chapter/10.1007/978-3-030-63355-4_29
+Title found in the paper link content
+First 100 characters of content: cybersecurity of cardiac implantable electronic devices | springerlink 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--------------------
+
+19. Inside Risks: How to Curtail Oversensing in the Home
+URL: https://cacm.acm.org/magazines/2020/6/245153-how-to-curtail-oversensing-in-the-home/fulltext
+Failed to retrieve the paper link: 403 Client Error: Forbidden for url: https://cacm.acm.org/magazines/2020/6/245153-how-to-curtail-oversensing-in-the-home/fulltext
+
+--------------------
+
+20. SoK: A Minimalist Approach to Formalizing Analog Sensor Security
+URL: https://oaklandsok.github.io/papers/yan2020.pdf
+Title found in the paper link content
+First 100 characters of content: sok: a minimalist approach to formalizing
+analog sensor security
+chen yanx, hocheol shinyx, connor 
+
+--------------------
+
+21. Light Commands: Laser-Based Audio Injection Attacks on Voice-Controllable Systems
+URL: https://www.usenix.org/conference/usenixsecurity20/presentation/sugawara
+Title found in the paper link content
+First 100 characters of content: light commands: laser-based audio injection attacks on voice-controllable systems | usenix 
+ 
+ 
+ 
+ 
+
+
+--------------------
+
+22. Adversarial Sensor Attack on Lidar-based Perception in Autonomous Driving
+URL: https://dl.acm.org/doi/10.1145/3319535.3339815
+Title found in the paper link content
+First 100 characters of content: adversarial sensor attack on lidar-based perception in autonomous driving | proceedings of the 2019 
+
+--------------------
+
+23. Trick or Heat? Manipulating Critical Temperature-Based Control Systems Using Rectification Attacks
+URL: https://dl.acm.org/doi/10.1145/3319535.3354195
+Title found in the paper link content
+First 100 characters of content: trick or heat? | proceedings of the 2019 acm sigsac conference on computer and communications securi
+
+--------------------
+
+24. Hard Drive of Hearing: Disks that Eavesdrop with a Synthesized Microphone
+URL: https://spqrlab1.github.io/papers/Kwong-HDDphone-IEEE-SP-2019.pdf
+Title found in the paper link content
+First 100 characters of content: hard drive of hearing: disks that eavesdrop with a synthesized microphone
+andrew kwong1, wenyuan xu2
+
+--------------------
+
+25. Blue Note: How Intentional Acoustic Interference Damages Availability and Integrity in Hard Disk Drives and Operating Systems
+URL: https://spqrlab1.github.io/papers/bolton-blue-note.pdf
+Title found in the paper link content
+First 100 characters of content: blue note: how intentional acoustic interference
+damages availability and integrity in hard disk
+dri
+
+--------------------
+
+26. Archimedes Center for Medical Device Security Response to U.S. House Energy and Commerce Committee Request for Information on Supported Lifetimes of Legacy Medical Technology
+URL: https://spqrlab1.github.io/papers/Kwong-HDDphone-IEEE-SP-2019.pdf
+Title NOT found in the paper link content
+First 100 characters of content: hard drive of hearing: disks that eavesdrop with a synthesized microphone
+andrew kwong1, wenyuan xu2
+
+--------------------
+
+27. Cybersecurity Vulnerabilities of Cardiac Implantable Electronic Devices
+URL: https://www.heartrhythmjournal.com/article/S1547-5271(18)30467-3/fulltext
+Failed to retrieve the paper link: 403 Client Error: Forbidden for url: https://www.heartrhythmjournal.com/article/S1547-5271(18)30467-3/fulltext
+
+--------------------
+
+28. On Cuba, Diplomats, Ultrasound, and Intermodulation Distortion
+URL: https://spqrlab1.github.io/papers/YanFuXu-Cuba-CSE-TR-001-18.pdf
+Title found in the paper link content
+First 100 characters of content: manuscript march 1, 2018
+on cuba, diplomats, ultrasound,
+and intermodulation distortion
+university o
+
+--------------------
+
+29. Inside Risks: Risks of Trusting the Physics of Sensors
+URL: https://spqrlab1.github.io/papers/FuXu-CACM-Feb-2018.pdf
+Title NOT found in the paper link content
+First 100 characters of content: 20    communications of the acm   |   february 2018  |   vol. 61  |   no. 2
+vviewpointscial equipmen
+
+--------------------
+
+30. Cybersecurity Concerns and Medical Devices: Lessons from a Pacemaker Advisory
+URL: https://jamanetwork.com/journals/jama/article-abstract/2659246
+Failed to retrieve the paper link: 403 Client Error: Forbidden for url: https://jamanetwork.com/journals/jama/article-abstract/2659246
+
+--------------------
+
+31. Focus on Health IT: Six Factors Essential for Mitigating Cyber Risks in Healthcare
+URL: https://www.aami.org/
+Title NOT found in the paper link content
+First 100 characters of content: aami main page | aami
+                           skip to main content   
+ 
+ about aami 
+ 
+ 
+ about 
+
+--------------------
+
+32. Cybersecurity and Medical Devices: A Practical Guide for Cardiac Electrophysiologists
+URL: https://onlinelibrary.wiley.com/doi/full/10.1111/pace.13102
+Failed to retrieve the paper link: 403 Client Error: Forbidden for url: https://onlinelibrary.wiley.com/doi/full/10.1111/pace.13102
+
+--------------------
+
+33. 勒索软件:我们如何爬出泥沼
+URL: http://www.china-cmd.org/
+Title NOT found in the paper link content
+First 100 characters of content: 《中国医疗设备》杂志社 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 集团首页 
+ 首页 
+ 杂志介绍 
+ 行业资讯 
+ 行业研究员 
+ 品牌活动
+
+--------------------
+
+34. Ransomware: How we can Climb out of this Mess
+URL: https://www.healthcareitnews.com/author/kevin-fu-and-harold-thimbleby
+Title NOT found in the paper link content
+First 100 characters of content: site maintenance 
+ 
+ 
+ 
+ 
+ we’ll be back soon! 
+ we're very sorry for the inconvenience but we’re pe
+
+--------------------
+
+35. WALNUT: Waging Doubt on the Integrity of MEMS Accelerometers with Acoustic Injection Attacks
+URL: https://spqrlab1.github.io/papers/trippel-IEEE-oaklawn-walnut-2017.pdf
+Title found in the paper link content
+First 100 characters of content: walnut: waging doubt on the integrity of mems accelerometers
+with acoustic injection attacks
+timothy
+
+--------------------
+
+36. Dealing with Infrastructure Disruption: IoT Security
+URL: https://blog.ubiquity.acm.org/infrastructure-disruption-internet-of-things-security/
+Title found in the paper link content
+First 100 characters of content: dealing with infrastructure disruption: iot security • blog@ubiquity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--------------------
+
+37. Infrastructure Disruption: Internet of Things Security
+URL: https://blog.ubiquity.acm.org/infrastructure-disruption-internet-of-things-security/
+Title found in the paper link content
+First 100 characters of content: dealing with infrastructure disruption: iot security • blog@ubiquity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--------------------
+
+38. Commentary: Hospitals Need Better Cybersecurity, not more Fear
+URL: https://www.modernhealthcare.com/article/20160914/NEWS/160919950/commentary-hospitals-need-better-cybersecurity-not-more-fear
+Failed to retrieve the paper link: 403 Client Error: Forbidden for url: https://www.modernhealthcare.com/article/20160914/NEWS/160919950/commentary-hospitals-need-better-cybersecurity-not-more-fear
+
+--------------------
+
+39. Persistent Clocks for Batteryless Sensing Devices
+URL: https://spqrlab1.github.io/papers/hester-persistent-clocks.pdf
+Title found in the paper link content
+First 100 characters of content: 77persistent clocks for batteryless sensing devices
+josiah hester and nicole tobias , clemson univer
+
+--------------------
+
+40. Systems Computing Challenges in the Internet of Things
+URL: https://cra.org/ccc/wp-content/uploads/sites/2/2015/09/IoTSystemsChallenges.pdf
+Title found in the paper link content
+First 100 characters of content:   systems computing challenges in the internet of things  rajeev alur, emery berger, ann w. drobnis,
+
+--------------------
+
+41. Comments on FDA Draft Postmarket Guidance on Cybersecurity
+URL: https://spqrlab1.github.io/papers/FDA-post-market-Fu-2016.pdf
+Title found in the paper link content
+First 100 characters of content: april 21, 2016
+dr. suzanne schwartz
+center for devices and radiological health
+food and drug adminis
+
+--------------------
+
+42. Probable cause: the Deanonymizing Effects of Approximate DRAM
+URL: https://spqrlab1.github.io/papers/rahmati-probable-cause.pdf
+Title found in the paper link content
+First 100 characters of content: probable cause:
+the deanonymizing effects of approximate dram
+amir rahmati matthew hicks daniel e. h
+
+--------------------
+
+43. SPECS: A Lightweight Runtime Mechanism for Protecting Software from Security-critical Processor Bugs
+URL: https://spqrlab1.github.io/papers/hicks_ASPLOS_15.pdf
+Title found in the paper link content
+First 100 characters of content: specs: a lightweight runtime mechanism for
+protecting software from security-critical processor bugs
+
+--------------------
+
+44. Security for Mobile and Cloud Frontiers in Healthcare
+URL: https://dl.acm.org/doi/10.1145/2790830
+Title found in the paper link content
+First 100 characters of content: security for mobile and cloud frontiers in healthcare | communications of the acm 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--------------------
+
+45. Reliable Physical Unclonable Functions Using Data Retention Voltage of SRAM Cells
+URL: https://spqrlab1.github.io/papers/xu-sram-puf.pdf
+Title found in the paper link content
+First 100 characters of content: ieee transactions on computer-aided design of integrated circuits and systems, vol. 34, no. 6, june 
+
+--------------------
+
+46. On the Technical Debt of Medical Device Security
+URL: http://www.naefrontiers.org/File.aspx?id=50750
+Failed to retrieve the paper link: 401 Client Error: Unauthorized for url: https://www.naefrontiers.org/File.aspx?id=50750
+
+--------------------
+
+47. Bitline PUF: Building Native Challenge-Response PUF Capability into Any SRAM
+URL: https://spqrlab1.github.io/papers/holcomb_bitline_ches14.pdf
+Title found in the paper link content
+First 100 characters of content: bitline puf: building native
+challenge-response puf capability into any
+sram
+daniel e. holcomb and k
+
+--------------------
+
+48. SoK: Security and Privacy in Implantable Medical Devices and Body Area Networks
+URL: https://spqrlab1.github.io/papers/rushanan-sok-oakland14.pdf
+Title found in the paper link content
+First 100 characters of content: sok: security and privacy in implantable medical devices and body area networks
+michael rushanan, av
+
+--------------------
+
+49. PUFs at a Glance
+URL: https://spqrlab1.github.io/papers/holcomb_PUFs_date14.pdf
+Title found in the paper link content
+First 100 characters of content: pufs at a glance
+ulrich r ¨uhrmair
+technische universit ¨at m ¨unchen
+80333 m ¨unchen, germany
+e-mai
+
+--------------------
+
+50. Refreshing Thoughts on DRAM: Power Saving vs. Data Integrity
+URL: https://spqrlab1.github.io/papers/rahmati-wacas14.pdf
+Title found in the paper link content
+First 100 characters of content: refreshing thoughts on dram:
+power saving vs. data integrity
+amir rahmati, matthew hicks, daniel hol
+
+--------------------
+
+51. QBF-Based Synthesis of Optimal Word-Splitting in Approximate Multi-Level Storage Cells
+URL: https://spqrlab1.github.io/papers/holcomb_qbf_wacas14.pdf
+Title found in the paper link content
+First 100 characters of content: qbf-based synthesis of optimal word-splitting
+in approximate multi-level storage cells
+daniel e. hol
+
+--------------------
+
+52. Gaining Control of Cellular Traffic Accounting by Spurious TCP Retransmission
+URL: No [Paper] link found
+
+--------------------
+
+53. The Swarm at the Edge of the Cloud
+URL: http://chess.eecs.berkeley.edu/pubs/1066/LeeEtAl_TerraSwarm_DesignAndTest.pdf
+Title found in the paper link content
+First 100 characters of content: 2168-2356 (c) 2013 ieee. personal use is permitted, but republication/redistribution requires ieee p
+
+--------------------
+
+54. Inside Risks: Controlling for Cybersecurity Risks of Medical Device Software
+URL: http://www.csl.sri.com/users/neumann/cacm231.pdf
+Title NOT found in the paper link content
+First 100 characters of content: credit tkoctober 2013  |   vol. 56  |   no. 10  |   communications of the acm    21
+vviewpointswhile
+
+--------------------
+
+55. Current Events: Identifying Webpages by Tapping the Electrical Outlet
+URL: https://spqrlab1.github.io/papers/clark-esorics13.pdf
+Title found in the paper link content
+First 100 characters of content: current events: identifying webpages by tapping the
+electrical outlet
+shane s. clark1, hossen mustaf
+
+--------------------
+
+56. The Security and Privacy Implications of Energy-Proportional Computing
+URL: https://spqrlab1.github.io/papers/ssclark-thesis.pdf
+Title found in the paper link content
+First 100 characters of content: the security and privacy implications of
+energy-proportional computing
+a dissertation presented
+by
+s
+
+--------------------
+
+57. WattsUpDoc: Power Side Channels to Nonintrusively Discover Untargeted Malware on Embedded Medical Devices
+URL: https://spqrlab1.github.io/papers/clark-healthtech13.pdf
+Title found in the paper link content
+First 100 characters of content: wattsupdoc: power side channels to nonintrusively discover untargeted
+malware on embedded medical de
+
+--------------------
+
+58. Half-Wits: Software Techniques for Low-Voltage Probabilistic Storage on Microcontrollers with NOR Flash Memory
+URL: https://spqrlab1.github.io/papers/salajegheh-tecs13.pdf
+Title found in the paper link content
+First 100 characters of content: a
+half-wits: software techniques for low-voltage probabilistic storage
+on microcontrollers with nor 
+
+--------------------
+
+59. Ghost Talk: Mitigating EMI Signal Injection Attacks against Analog Sensors
+URL: https://spqrlab1.github.io/papers/fookune-emi-oakland13.pdf
+Title found in the paper link content
+First 100 characters of content: ghost talk: mitigating emi signal injection attacks against analog sensors
+denis foo kune, john bac
+
+--------------------
+
+60. Towards Accurate Accounting of Cellular Data for TCP Retransmission
+URL: No [Paper] link found
+
+--------------------
+
+61. Transiently Powered Computers
+URL: https://spqrlab1.github.io/papers/ransford-thesis.pdf
+Title found in the paper link content
+First 100 characters of content: transiently powered computers
+a dissertation presented
+by
+benjamin ransford
+submitted to the graduat
+
+--------------------
+
+62. On the Expectations of Smart Cards to Reduce Medicare Fraud
+URL: http://sharps.org/wp-content/uploads/FU-STATEMENT.pdf
+Title found in the paper link content
+First 100 characters of content: statement of prof . kevin fu, ph.d.
+department of
+electrical engineering & computer science
+universi
+
+--------------------
+
+63. Privacy-aware Collaboration Among Untrusted Resource Constrained Devices
+URL: https://spqrlab1.github.io/papers/molina-markham-phd-thesis.pdf
+Title found in the paper link content
+First 100 characters of content: privacy-aware collaboration
+among untrusted
+resource constrained devices
+a dissertation presented
+by
+
+--------------------
+
+64. Software Techniques to Reduce the Energy Consumption of Low-Power Devices at the Limits of Digital Abstractions
+URL: https://spqrlab1.github.io/papers/salajegheh-thesis.pdf
+Title found in the paper link content
+First 100 characters of content: software techniques to reduce the energy
+consumption of low-power devices
+at the limits of digital a
+
+--------------------
+
+65. Potentia est Scientia: Security and Privacy Implications of Energy-Proportional Computing
+URL: https://spqrlab1.github.io/papers/clark-potentia-hotsec12.pdf
+Title found in the paper link content
+First 100 characters of content: potentia est scientia: security and privacy implications of
+energy-proportional computing
+shane s. c
+
+--------------------
+
+66. Functional Privacy or Why Cookies are Better with Milk
+URL: https://spqrlab1.github.io/papers/walls-hotsec12.pdf
+Title found in the paper link content
+First 100 characters of content: functional privacy
+or why cookies are better with milk
+robert j. walls, shane s. clark, brian neil l
+
+--------------------
+
+67. TARDIS: Time and Remanence Decay in SRAM to Implement Secure Protocols on Embedded Devices without Clocks
+URL: https://spqrlab1.github.io/papers/rahmati-usenix12.pdf
+Title found in the paper link content
+First 100 characters of content: tardis: time and remanence decay in sram to implement secure
+protocols on embedded devices without c
+
+--------------------
+
+68. DRV-Fingerprinting: Using Data Retention Voltage of SRAM Cells for Chip Identification
+URL: https://spqrlab1.github.io/papers/holcomb-rfidsec12.pdf
+Title NOT found in the paper link content
+First 100 characters of content: drv-fingerprinting: using data retention
+voltage of sram cells for chip identication
+daniel e. hol
+
+--------------------
+
+69. Security and Privacy Qualities of Medical Devices: An Analysis of FDA Postmarket Surveillance
+URL: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0040200&type=printable
+Title found in the paper link content
+First 100 characters of content: security and privacy qualities of medical devices: an
+analysis of fda postmarket surveillance
+daniel
+
+--------------------
+
+70. Current Events: Identifying Webpages by Tapping the Electrical Outlet
+URL: https://web.cs.umass.edu/publication/details.php?id=2147
+Title found in the paper link content
+First 100 characters of content: umass cs publications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   publication details: um-cs-2011-030 
+ current events: identi
+
+--------------------
+
+71. Design Challenges for Secure Implantable Medical Devices
+URL: https://spqrlab1.github.io/papers/49SS2-3_burleson.pdf
+Title found in the paper link content
+First 100 characters of content: design challenges for secure implantable medical devices
+wayne burleson
+department of electrical and
+
+--------------------
+
+72. TARDIS: Secure Time Keeping For Embedded Devices Without Clocks
+URL: https://spqrlab1.github.io/papers/TARDIS_Abstract_Oakland12.pdf
+Title NOT found in the paper link content
+First 100 characters of content: tardis
+secure time keeping for embedded devices without clocks
+amir rahmati
+umass amherstmastooreh s
+
+--------------------
+
+73. Designing Privacy-preserving Smart Meters with Low-cost Microcontrollers
+URL: https://eprint.iacr.org/2011/544.pdf
+Title found in the paper link content
+First 100 characters of content: designing privacy-preserving smart
+meters with low-cost microcontrollers
+andres molina-markham, geor
+
+--------------------
+
+74. Maximalist Cryptography and Computation on the WISP UHF RFID Tag
+URL: https://www.springer.com/gp/book/9781441961655
+Title found in the paper link content
+First 100 characters of content: wirelessly powered sensor networks and computational rfid | springerlink 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--------------------
+
+75. BAT: Backscatter Anything-to-Tag Communication
+URL: https://www.springer.com/gp/book/9781441961655
+Title found in the paper link content
+First 100 characters of content: wirelessly powered sensor networks and computational rfid | springerlink 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--------------------
+
+76. NIST ISPAB Federal Advisory Commmittee Recommendations on Improving Medical Device Cybersecurity
+URL: No [Paper] link found
+
+--------------------
+
+77. Recent Results in Computer Security for Medical Devices
+URL: https://spqrlab1.github.io/papers/clark-mobihealth11.pdf
+Title found in the paper link content
+First 100 characters of content: recent results in computer security for
+medical devices⋆
+shane s. clark and kevin fu
+department of c
+
+--------------------
+
+78. Ekho: Bridging the Gap Between Simulation and Reality in Tiny Energy-Harvesting Sensors
+URL: https://spqrlab1.github.io/papers/zhang-ekho-hotpower11.pdf
+Title found in the paper link content
+First 100 characters of content: ekho: bridging the gap between simulation and
+reality in tiny energy-harvesting sensors
+hong zhang, 
+
+--------------------
+
+79. Take Two Software Updates and See me in the Morning: The Case for Software Security Evaluations of Medical Devices
+URL: https://spqrlab1.github.io/papers/hanna-aed-healthsec11.pdf
+Title found in the paper link content
+First 100 characters of content: take two software updates and see me in the morning:
+the case for software security evaluations of m
+
+--------------------
+
+80. They Can Hear Your Heartbeats: Non-Invasive Security for Implanted Medical Devices
+URL: https://spqrlab1.github.io/papers/gollakota-SIGCOMM11-IMD.pdf
+Title found in the paper link content
+First 100 characters of content: they can hear your heartbeats: non-invasive security for
+implantable medical devices
+shyamnath golla
+
+--------------------
+
+81. Moo: A Batteryless Computational RFID and Sensing Platform
+URL: https://web.cs.umass.edu/publication/details.php?id=2114
+Title found in the paper link content
+First 100 characters of content: umass cs publications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   publication details: um-cs-2011-020 
+ moo: a batteryless com
+
+--------------------
+
+82. Software Issues for the Medical Device Approval Process
+URL: https://spqrlab1.github.io/papers/fu-senate-comm-aging-med-dev-sw-apr-2011.pdf
+Title found in the paper link content
+First 100 characters of content: statement of prof . kevin fu, ph.d.
+department of computer science
+university of massachusetts amher
+
+--------------------
+
+83. Mementos: System Support for Long-Running Computation on RFID-Scale Devices
+URL: https://spqrlab1.github.io/papers/ransford-mementos-asplos11.pdf
+Title found in the paper link content
+First 100 characters of content: mementos: system support for long-running
+computation on rfid-scale devices
+benjamin ransford
+depart
+
+--------------------
+
+84. Exploiting Half-Wits: Smarter Storage for Low-Power Devices
+URL: https://spqrlab1.github.io/papers/salajegheh-halfwits-FAST11.pdf
+Title found in the paper link content
+First 100 characters of content: exploiting half-wits: smarter storage for low-power devices
+mastooreh salajegheh∗, yue wang†, kevin 
+
+--------------------
+
+85. Trustworthy Medical Device Software
+URL: https://spqrlab1.github.io/papers/fu-trustworthy-medical-device-software-IOM11.pdf
+Title found in the paper link content
+First 100 characters of content: trustworthy medical device software
+kevin fu
+assistant professor
+university of massachusetts amherst
+
+--------------------
+
+86. Private Memoirs of a Smart Meter
+URL: https://spqrlab1.github.io/papers/molina-markham-buildsys10.pdf
+Title found in the paper link content
+First 100 characters of content: private memoirs of a smart meter
+andr ´es molina-markham, prashant shenoy, kevin fu, emmanuel cecche
+
+--------------------
+
+87. Mementos: System Support for Long-Running Computation on RFID-Scale Devices (Technical Report)
+URL: https://web.cs.umass.edu/publication/details.php?id=2068
+Title NOT found in the paper link content
+First 100 characters of content: umass cs publications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   publication details: um-cs-2010-060 
+ mementos: system suppo
+
+--------------------
+
+88. On the Limits of Effective Micro-Energy Harvesting on Mobile CRFID Sensors
+URL: https://spqrlab1.github.io/papers/MobiSys10-SolarCRFID.pdf
+Title found in the paper link content
+First 100 characters of content: on the limits of effective
+hybrid micro-energy harvesting on mobile crfid sensors
+jeremy gummeson, s
+
+--------------------
+
+89. A Rudimentary Bootloader for Computational RFIDs
+URL: https://web.cs.umass.edu/publication/details.php?id=2069
+Title found in the paper link content
+First 100 characters of content: umass cs publications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   publication details: um-cs-2010-061 
+ a rudimentary bootload
+
+--------------------
+
+90. HICCUPS: Health Information Collaborative Collection Using Privacy and Security
+URL: https://spqrlab1.github.io/papers/HICCUPS-2009.pdf
+Title found in the paper link content
+First 100 characters of content: hiccups: health information collaborative collection
+using privacy and security
+andres d. molina, ma
+
+--------------------
+
+91. Towards Autonomously-Powered CRFIDs
+URL: https://spqrlab1.github.io/papers/clark-autonomous-CRFID-hotpower09.pdf
+Title found in the paper link content
+First 100 characters of content: towards autonomously-powered crfids
+shane s. clark, jeremy gummeson, kevin fu, deepak ganesan
+univer
+
+--------------------
+
+92. Clinically Significant Magnetic Interference of Implanted Cardiac Devices by Portable Headphones
+URL: https://spqrlab1.github.io/papers/Clinically-Significant-Magnetic-Interference.pdf
+Title NOT found in the paper link content
+First 100 characters of content: clinically signiﬁcant magnetic interference of implanted cardiac
+devices by portable headphones
+sinj
+
+--------------------
+
+93. Power-up SRAM State as an Identifying Fingerprint and Source of True Random Numbers
+URL: https://spqrlab1.github.io/papers/holcomb-FERNS-IEEE-Computers.pdf
+Title found in the paper link content
+First 100 characters of content: ieee transactions on computers, vol. 57, no. 11, november 2008 1
+power-up sram state as an identifyi
+
+--------------------
+
+94. CCCP: Secure Remote Storage for Computational RFIDs
+URL: https://spqrlab1.github.io/papers/salajegheh-CCCP-usenix09.pdf
+Title found in the paper link content
+First 100 characters of content: cccp: secure remote storage for computational rfids∗
+mastooreh salajegheh1shane clark1benjamin ransf
+
+--------------------
+
+95. Inside Risks, Reducing the Risks of Implantable Medical Devices: A Prescription to Improve Security and Privacy of Pervasive Health Care
+URL: http://www.csl.sri.com/users/neumann/insiderisks08.html#218
+Failed to retrieve the paper link: 403 Client Error: Forbidden for url: https://www.csl.sri.com/users/neumann/insiderisks08.html#218
+
+--------------------
+
+96. Privacy of Home Telemedicine: Encryption is Not Enough
+URL: https://spqrlab1.github.io/papers/MobiSys10-SolarCRFID.pdf
+Title NOT found in the paper link content
+First 100 characters of content: on the limits of effective
+hybrid micro-energy harvesting on mobile crfid sensors
+jeremy gummeson, s
+
+--------------------
+
+97. Getting Things Done on Computational RFIDs with Energy-Aware Checkpointing and Voltage-Aware Scheduling
+URL: https://spqrlab1.github.io/papers/ransford-CRFIDs-hotpower08-30112008.pdf
+Title found in the paper link content
+First 100 characters of content: getting things done on computational rfids with energy-aware
+checkpointing and voltage-aware schedul
+
+--------------------
+
+98. Electromagnetic Interference (EMI) of Implanted Cardiac Devices by MP3 Player Headphones
+URL: No [Paper] link found
+
+--------------------
+
+99. Absence Makes the Heart Grow Fonder: New Directions for Implantable Medical Device Security
+URL: https://spqrlab1.github.io/papers/watchdog-hotsec08.pdf
+Title found in the paper link content
+First 100 characters of content: absence makes the heart grow fonder:
+new directions for implantable medical device security
+tamara d
+
+--------------------
+
+100. Pacemakers and Implantable Cardiac Defibrillators: Software Radio Attacks and Zero-power Defenses
+URL: https://spqrlab1.github.io/papers/icd-study.pdf
+Title NOT found in the paper link content
+First 100 characters of content: pacemakers and implantable cardiac deﬁbrillators:
+software radio attacks and zero-power defenses
+dan
+
+--------------------
+
+101. Security and Privacy for Implantable Medical Devices
+URL: https://spqrlab1.github.io/papers/b1kohFINAL2.pdf
+Title found in the paper link content
+First 100 characters of content: © 2008 i eee. pers onal use of this material is permitted. however, permission to reprint/republish 
+
+--------------------
+
+102. Protecting Global Medical Telemetry Infrastructure
+URL: https://spqrlab1.github.io/papers/whitepaper-protecting_global_medical.pdf
+Title found in the paper link content
+First 100 characters of content:  
+ 
+ 
+ 
+  
+ 
+protecting global medical 
+telemetry infrastructure 
+ 
+ 
+benessa defend, mastooreh sala
+
+--------------------
+
+103. Initial SRAM State as a Fingerprint and Source of True Random Numbers for RFID Tags
+URL: https://spqrlab1.github.io/papers/holcomb-FERNS-RFIDSec07.pdf
+Title found in the paper link content
+First 100 characters of content: initial sram state as a fingerprint and source
+of true random numbers for rfid tags
+daniel e. holcom
+
+--------------------
+
+104. Maximalist Cryptography and Computation on the WISP UHF RFID Tag
+URL: https://spqrlab1.github.io/papers/chae-RFIDSec07.pdf
+Title found in the paper link content
+First 100 characters of content: maximalist cryptography and computation
+on the wisp uhf rfid tag
+hee-jin chae1, daniel j. yeager2, j
+
+--------------------
+
+105. Cryptanalysis of Two Lightweight RFID Authentication Schemes
+URL: https://spqrlab1.github.io/papers/defend-persec07.pdf
+Title found in the paper link content
+First 100 characters of content: cryptanalysis of two lightweight rfid authentication schemes
+benessa defend
+umass amherst
+defend@cs.
+
+--------------------
+
+106. Vulnerabilities in First-Generation RFID-enabled Credit Cards
+URL: https://spqrlab1.github.io/papers/RFID-CC-LNCS.pdf
+Title found in the paper link content
+First 100 characters of content: vulnerabilities in first-generation
+rfid-enabled credit cards⋆
+thomas s. heydt-benjamin1, daniel v. 
+
+--------------------
+
+107. Secure Software Updates: Disappointments and New Challenges
+URL: https://spqrlab1.github.io/papers/secureupdates-hotsec06.pdf
+Title found in the paper link content
+First 100 characters of content: secure software updates: disappointments and new challenges
+anthony bellissimo, john burgess, kevin 
+
+--------------------
+
+108. Privacy for Public Transportation
+URL: https://spqrlab1.github.io/papers/heydt-benjamin-pet06.pdf
+Title found in the paper link content
+First 100 characters of content: privacy for public transportation
+thomas s. heydt-benjamin, hee-jin chae, benessa defend, and kevin 
+
+--------------------
+
+109. Key Regression: Enabling Efficient Key Distribution for Secure Distributed Storage
+URL: https://spqrlab1.github.io/papers/fu-key-regression-ndss06.pdf
+Title NOT found in the paper link content
+First 100 characters of content: key regression: enabling efﬁcient key distribution for sec ure distributed
+storage
+kevinfu
+u. mass.a
+
+--------------------
+
+110. Improved Proxy Re-Encryption Schemes with Applications to Secure Distributed Storage
+URL: https://spqrlab1.github.io/papers/ateniese-proxy-reenc-ndss05.pdf
+Title found in the paper link content
+First 100 characters of content: improvedproxyre-encryptionschemeswithapplicationsto
+securedistributedstorage∗
+giuseppeateniese†kevin
+
+--------------------
+
+111. Integrity and Access Control in Untrusted Content Distribution Networks
+URL: https://spqrlab1.github.io/papers/fu-phd-thesis.pdf
+Title found in the paper link content
+First 100 characters of content: integrity and access control in untrusted content distribution
+networks
+by
+kevin e. fu
+b.s. computer
+
+--------------------
+
+112. Improved Proxy Re-encryption Schemes with Applications to Secure Distributed Storage
+URL: https://spqrlab1.github.io/papers/ateniese-proxy-reenc-tissec.pdf
+Title found in the paper link content
+First 100 characters of content: improved proxy re-encryption schemes with
+applications to secure distributed storage
+giuseppe atenie
+
+--------------------
+
+113. REX: Secure, Extensible Remote Execution
+URL: https://spqrlab1.github.io/papers/rex-usenix04.pdf
+Title found in the paper link content
+First 100 characters of content: inproceedings of the 2004 usenix annual technical conference (usenix’04)
+pages 199-212, boston, mass
+
+--------------------
+
+114. Plutus: Scalable Secure File Sharing on Untrusted Storage
+URL: https://spqrlab1.github.io/papers/FAST2003-plutus.pdf
+Title found in the paper link content
+First 100 characters of content: appears in the proceedings ofthe 2nd conference on file and storage technologies (fast’03). pp. ?–? 
+
+--------------------
+
+115. Using SFS for a Secure Network File System
+URL: https://www.usenix.org/publications/login/2002-12/pdfs/Fu.pdf
+Title NOT found in the paper link content
+First 100 characters of content: usenix | the advanced computing systems association 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ skip to main
+
+--------------------
+
+116. Fast and Secure Distributed Read-Only File System
+URL: https://spqrlab1.github.io/papers/sfsro-tocs.pdf
+Title found in the paper link content
+First 100 characters of content: fast and secure distributed read-only
+file system
+kevin fu and m. frans kaashoek
+massachusetts insti
+
+--------------------
+
+117. Inside Risks, Web Cookies: Not Just a Privacy Risk
+URL: http://www.csl.sri.com/users/neumann/insiderisks.html#135
+Title found in the paper link content
+First 100 characters of content: cacm inside risks 
+
+here is a collection of the recent inside risks columns articles from the
+  comm
+
+--------------------
+
+118. Dos and Don'ts of Client Authentication on the Web
+URL: https://spqrlab1.github.io/papers/webauth-sec01.pdf
+Title NOT found in the paper link content
+First 100 characters of content: dosanddon'tsofclientauthentication ontheweb
+kevinfu,emilsit,kendrasmith,nickfeamster fubob, sit,kend
+
+--------------------
+
+119. Dos and Don'ts of Client Authentication on the Web
+URL: https://spqrlab1.github.io/papers/webauth-tr.pdf
+Title NOT found in the paper link content
+First 100 characters of content: dosanddon'tsofclientauthentication ontheweb
+kevinfu,emilsit,kendrasmith,nickfeamster fubob, sit,kend
+
+--------------------
+
+120. Fast and Secure Distributed Read-only File System
+URL: https://spqrlab1.github.io/papers/sfsro-osdi2000.pdf
+Title NOT found in the paper link content
+First 100 characters of content:  	
+
+
+
+
+! "#%$'&(#
+$)*+,.-/10324657
+
+--------------------
+
+121. Group Sharing and Random Access in Cryptographic Storage File Systems
+URL: https://spqrlab1.github.io/papers/fu-masters.pdf
+Title found in the paper link content
+First 100 characters of content: group sharing and random access in
+cryptographic storage file systems
+by
+kevin e. fu
+b.s. computer s
+
+--------------------
+
+122. Approximate Message Authentication Codes
+URL: https://spqrlab1.github.io/papers/graveman-amac.pdf
+Title NOT found in the paper link content
+First 100 characters of content: 
+
+--------------------
+
+123. Revocation of Unread Email in an Untrusted Network
+URL: https://spqrlab1.github.io/papers/email.pdf
+Title NOT found in the paper link content
+First 100 characters of content: rev o cation of unread e/-mail in an un trustednet w orkaviel d/. rubin
+/1dan boneh
+/2kevin f u
+/3ru
+
+--------------------
+

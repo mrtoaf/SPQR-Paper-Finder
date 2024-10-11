@@ -63,8 +63,8 @@ def get_publication_titles(base_url):
                                     file.write(f'Title found in the paper link content\n')
                                 else:
                                     file.write(f'Title NOT found in the paper link content\n')
-                                # Write the first 30 characters of the page content
-                                file.write(f'First 30 characters of content: {page_text[:30]}\n')
+                                # Write the first 100 characters of the page content
+                                file.write(f'First 100 characters of content: {page_text[:100]}\n')
                         except requests.RequestException as e:
                             file.write(f'Failed to retrieve the paper link: {e}\n')
                     else:
