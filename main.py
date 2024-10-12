@@ -3,6 +3,8 @@ from bs4 import BeautifulSoup
 import PyPDF2
 import io
 from tqdm import tqdm
+from fuzzywuzzy import fuzz
+
 
 def get_publication_titles(base_url):
     try:
@@ -22,7 +24,7 @@ def get_publication_titles(base_url):
                 title_tag = pub.find(['h2', 'h3', 'h4'])  # Search for h2, h3, or h4 tags for the title
                 title = title_tag.get_text(strip=True) if title_tag else 'No title found'
                 file.write(f'{index}. {title}\n')
-                title_words = set(title.lower().split())
+                title_lower = title.lower()
                 
                 # Find the [Paper] link
                 paper_link = pub.find('a', string='[Paper]')
@@ -48,22 +50,24 @@ def get_publication_titles(base_url):
                                         page_content = reader.pages[page_num].extract_text()
                                         if page_content:
                                             pdf_text += page_content.lower()
-                                    pdf_words = set(pdf_text.split())
-                                    if len(title_words.intersection(pdf_words)) >= len(title_words) / 2:
-                                        file.write(f'Title found in the paper link content\n')
+                                        if len(pdf_text) >= 1000:
+                                            break
+                                    similarity = fuzz.partial_ratio(title_lower, pdf_text[:8000])
+                                    if similarity >= 80:
+                                        file.write(f'Title found in the paper link content (Similarity: {similarity}%)\n')
                                     else:
-                                        file.write(f'Title NOT found in the paper link content\n')
+                                        file.write(f'Title NOT found in the paper link content (Similarity: {similarity}%)\n')
                                     # Write the first 100 characters of the page content
                                     file.write(f'First 100 characters of content: {pdf_text[:100]}\n')
                             else:
                                 # If not a PDF, parse as HTML
                                 paper_soup = BeautifulSoup(paper_response.content, 'html.parser')
                                 page_text = paper_soup.get_text(separator=' ').strip().lower()
-                                page_words = set(page_text.split())
-                                if len(title_words.intersection(page_words)) >= len(title_words) / 2:
-                                    file.write(f'Title found in the paper link content\n')
+                                similarity = fuzz.partial_ratio(title_lower, page_text[:8000])
+                                if similarity >= 80:
+                                    file.write(f'Title found in the paper link content (Similarity: {similarity}%)\n')
                                 else:
-                                    file.write(f'Title NOT found in the paper link content\n')
+                                    file.write(f'Title NOT found in the paper link content (Similarity: {similarity}%)\n')
                                 # Write the first 100 characters of the page content
                                 file.write(f'First 100 characters of content: {page_text[:100]}\n')
                         except requests.RequestException as e:
