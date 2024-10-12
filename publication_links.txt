@@ -73,7 +73,7 @@ with rolli
 
 9. Private Eye: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing
 URL: https://arxiv.org/pdf/2205.03971.pdf
-Title NOT found in the paper link content
+Title found in the paper link content
 First 100 characters of content: private eye: on the limits of
 textual screen peeking via eyeglass reﬂections
 in video conferencing
@@ -83,7 +83,7 @@ y
 
 10. Side Auth: Sensor Side Channels Considered Beneficial by Synthesizing Virtual Sensors for Authentication
 URL: https://arxiv.org/pdf/2301.11745.pdf
-Title NOT found in the paper link content
+Title found in the paper link content
 First 100 characters of content: side auth: synthesizing virtual sensors for authentication
 yan long
 university of michigan
@@ -125,7 +125,7 @@ photoa
 
 15. VeriMask: Facilitating Decontamination of N95 Masks in the COVID-19 Pandemic: Challenges, Lessons Learned, and Safeguarding the Future
 URL: https://spqrlab1.github.io/papers/longyan-verimask-imwut21.pdf
-Title NOT found in the paper link content
+Title found in the paper link content
 First 100 characters of content: 119verimask: facilitating decontamination of n95 masks in the
 covid-19 pandemic: challenges, lessons
 
@@ -228,7 +228,7 @@ dri
 
 26. Archimedes Center for Medical Device Security Response to U.S. House Energy and Commerce Committee Request for Information on Supported Lifetimes of Legacy Medical Technology
 URL: https://spqrlab1.github.io/papers/Kwong-HDDphone-IEEE-SP-2019.pdf
-Title NOT found in the paper link content
+Title found in the paper link content
 First 100 characters of content: hard drive of hearing: disks that eavesdrop with a synthesized microphone
 andrew kwong1, wenyuan xu2
 
@@ -252,7 +252,7 @@ university o
 
 29. Inside Risks: Risks of Trusting the Physics of Sensors
 URL: https://spqrlab1.github.io/papers/FuXu-CACM-Feb-2018.pdf
-Title NOT found in the paper link content
+Title found in the paper link content
 First 100 characters of content: 20    communications of the acm   |   february 2018  |   vol. 61  |   no. 2
 vviewpointscial equipmen
 
@@ -266,7 +266,7 @@ Failed to retrieve the paper link: 403 Client Error: Forbidden for url: https://
 
 31. Focus on Health IT: Six Factors Essential for Mitigating Cyber Risks in Healthcare
 URL: https://www.aami.org/
-Title NOT found in the paper link content
+Title found in the paper link content
 First 100 characters of content: aami main page | aami
                            skip to main content   
  
@@ -526,7 +526,7 @@ First 100 characters of content: 2168-2356 (c) 2013 ieee. personal use is permit
 
 54. Inside Risks: Controlling for Cybersecurity Risks of Medical Device Software
 URL: http://www.csl.sri.com/users/neumann/cacm231.pdf
-Title NOT found in the paper link content
+Title found in the paper link content
 First 100 characters of content: credit tkoctober 2013  |   vol. 56  |   no. 10  |   communications of the acm    21
 vviewpointswhile
 
@@ -651,7 +651,7 @@ protocols on embedded devices without c
 
 68. DRV-Fingerprinting: Using Data Retention Voltage of SRAM Cells for Chip Identification
 URL: https://spqrlab1.github.io/papers/holcomb-rfidsec12.pdf
-Title NOT found in the paper link content
+Title found in the paper link content
 First 100 characters of content: drv-fingerprinting: using data retention
 voltage of sram cells for chip identication
 daniel e. hol
@@ -694,7 +694,7 @@ department of electrical and
 
 72. TARDIS: Secure Time Keeping For Embedded Devices Without Clocks
 URL: https://spqrlab1.github.io/papers/TARDIS_Abstract_Oakland12.pdf
-Title NOT found in the paper link content
+Title found in the paper link content
 First 100 characters of content: tardis
 secure time keeping for embedded devices without clocks
 amir rahmati
@@ -857,7 +857,7 @@ andr ´es molina-markham, prashant shenoy, kevin fu, emmanuel cecche
 
 87. Mementos: System Support for Long-Running Computation on RFID-Scale Devices (Technical Report)
 URL: https://web.cs.umass.edu/publication/details.php?id=2068
-Title NOT found in the paper link content
+Title found in the paper link content
 First 100 characters of content: umass cs publications 
  
  
@@ -916,7 +916,7 @@ univer
 
 92. Clinically Significant Magnetic Interference of Implanted Cardiac Devices by Portable Headphones
 URL: https://spqrlab1.github.io/papers/Clinically-Significant-Magnetic-Interference.pdf
-Title NOT found in the paper link content
+Title found in the paper link content
 First 100 characters of content: clinically signiﬁcant magnetic interference of implanted cardiac
 devices by portable headphones
 sinj
@@ -947,7 +947,7 @@ Failed to retrieve the paper link: 403 Client Error: Forbidden for url: https://
 
 96. Privacy of Home Telemedicine: Encryption is Not Enough
 URL: https://spqrlab1.github.io/papers/MobiSys10-SolarCRFID.pdf
-Title NOT found in the paper link content
+Title found in the paper link content
 First 100 characters of content: on the limits of effective
 hybrid micro-energy harvesting on mobile crfid sensors
 jeremy gummeson, s
@@ -978,7 +978,7 @@ tamara d
 
 100. Pacemakers and Implantable Cardiac Defibrillators: Software Radio Attacks and Zero-power Defenses
 URL: https://spqrlab1.github.io/papers/icd-study.pdf
-Title NOT found in the paper link content
+Title found in the paper link content
 First 100 characters of content: pacemakers and implantable cardiac deﬁbrillators:
 software radio attacks and zero-power defenses
 dan
@@ -1064,7 +1064,7 @@ thomas s. heydt-benjamin, hee-jin chae, benessa defend, and kevin
 
 109. Key Regression: Enabling Efficient Key Distribution for Secure Distributed Storage
 URL: https://spqrlab1.github.io/papers/fu-key-regression-ndss06.pdf
-Title NOT found in the paper link content
+Title found in the paper link content
 First 100 characters of content: key regression: enabling efﬁcient key distribution for sec ure distributed
 storage
 kevinfu
@@ -1163,7 +1163,7 @@ here is a collection of the recent inside risks columns articles from the
 
 118. Dos and Don'ts of Client Authentication on the Web
 URL: https://spqrlab1.github.io/papers/webauth-sec01.pdf
-Title NOT found in the paper link content
+Title found in the paper link content
 First 100 characters of content: dosanddon'tsofclientauthentication ontheweb
 kevinfu,emilsit,kendrasmith,nickfeamster fubob, sit,kend
 
@@ -1171,7 +1171,7 @@ kevinfu,emilsit,kendrasmith,nickfeamster fubob, sit,kend
 
 119. Dos and Don'ts of Client Authentication on the Web
 URL: https://spqrlab1.github.io/papers/webauth-tr.pdf
-Title NOT found in the paper link content
+Title found in the paper link content
 First 100 characters of content: dosanddon'tsofclientauthentication ontheweb
 kevinfu,emilsit,kendrasmith,nickfeamster fubob, sit,kend
 
@@ -1181,12 +1181,10 @@ kevinfu,emilsit,kendrasmith,nickfeamster fubob, sit,kend
 URL: https://spqrlab1.github.io/papers/sfsro-osdi2000.pdf
 Title NOT found in the paper link content
 First 100 characters of content:  	
-
-
+
 
 
-! "#%$'&(#
-$)*+,.-/10324657
+! "#%$'&(#$)*+,.-/10324657
 
 --------------------
 
@@ -1210,7 +1208,7 @@ First 100 characters of content:
 
 123. Revocation of Unread Email in an Untrusted Network
 URL: https://spqrlab1.github.io/papers/email.pdf
-Title NOT found in the paper link content
+Title found in the paper link content
 First 100 characters of content: rev o cation of unread e/-mail in an un trustednet w orkaviel d/. rubin
 /1dan boneh
 /2kevin f u

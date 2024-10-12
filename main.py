@@ -4,7 +4,6 @@ import PyPDF2
 import io
 from tqdm import tqdm
 
-
 def get_publication_titles(base_url):
     try:
         # Get the HTML content of the page
@@ -46,9 +45,11 @@ def get_publication_titles(base_url):
                                     reader = PyPDF2.PdfReader(pdf_file)
                                     pdf_text = ''
                                     for page_num in range(len(reader.pages)):
-                                        pdf_text += reader.pages[page_num].extract_text().lower()
+                                        page_content = reader.pages[page_num].extract_text()
+                                        if page_content:
+                                            pdf_text += page_content.lower()
                                     pdf_words = set(pdf_text.split())
-                                    if title_words.issubset(pdf_words):
+                                    if len(title_words.intersection(pdf_words)) >= len(title_words) / 2:
                                         file.write(f'Title found in the paper link content\n')
                                     else:
                                         file.write(f'Title NOT found in the paper link content\n')
@@ -59,7 +60,7 @@ def get_publication_titles(base_url):
                                 paper_soup = BeautifulSoup(paper_response.content, 'html.parser')
                                 page_text = paper_soup.get_text(separator=' ').strip().lower()
                                 page_words = set(page_text.split())
-                                if title_words.issubset(page_words):
+                                if len(title_words.intersection(page_words)) >= len(title_words) / 2:
                                     file.write(f'Title found in the paper link content\n')
                                 else:
                                     file.write(f'Title NOT found in the paper link content\n')
